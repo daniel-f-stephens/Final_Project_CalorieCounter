@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">Calorie Counter</string>
+    <string name="action_settings">Settings</string>
+    <string name="home_screen">Home</string>
+    <string name="btnPageOne">Food Selection</string>
+    <string name="btnPageTwo">Page 2</string>
+    <string name="btnPageThree">Page 3</string>
+    <string name="main_question1">Have you eaten today?</string>
+    <string name="heightHint">Height (in)</string>
+    <string name="settings_question">Please enter in all your information</string>
+    <string name="settings_question_weight">Weight (lbs)</string>
+    <string name="calcOutput" />
+    <string name="btnSave">Save</string>
+    <string name="gender_input">Gender</string>
+    <string name="genderException" />
+    <string name="genderError" />
+    <string name="heightError" />
+    <string name="ageError" />
+    <string name="weightError" />
+    <string name="activityError" />
+    <string name="btnDisplay">Display</string>
+    <string name="btnBreakfast">Breakfast</string>
+    <string name="btnLunch">Lunch</string>
+    <string name="btnDinner">Dinner</string>
+    <string name="mainValue">Main Course</string>
+    <string name="txtSide">Sides</string>
+    <string name="txtBeverage">Beverage</string>
+    <string name="btnSave_pg1">Save</string>
+    <string name="displayBreakfast" />
+    <string name="displayLunch" />
+    <string name="displayDinner" />
+    <string name="btnUpdate">Update</string>
+
+    <string-array name="gender_values">
+        <item>Select Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="activity_values">
+        <item>Select Activity</item>
+        <item>Little to no Exercise</item>
+        <item>Lightly active(1-3 days per week)</item>
+        <item>Moderately active(3-5 days per week)</item>
+        <item>Very active(6-7 days per week)</item>
+        <item>Extra active(Very hard exercise or 2x training)</item>
+    </string-array>
+
+    <string-array name="breakfast_main">
+        <item>Select Food</item>
+        <item>Eggs</item>
+        <item>Toast</item>
+        <item>Cereal</item>
+        <item>Waffles/Pancakes</item>
+        <item>Protein Shake</item>
+    </string-array>
+    <string-array name="lunch_main">
+        <item>Select Food</item>
+        <item>Chicken</item>
+        <item>Beef</item>
+        <item>Fish</item>
+        <item>Pizza</item>
+        <item>Pasta</item>
+        <item>Protein Shake</item>
+    </string-array>
+    <string-array name="dinner_main">
+        <item>Select Food</item>
+        <item>Chicken</item>
+        <item>Beef</item>
+        <item>Fish</item>
+        <item>Pizza</item>
+        <item>Pasta</item>
+        <item>Protein Shake</item>
+    </string-array>
+
+    <string-array name="breakfast_sides">
+        <item>Select Side</item>
+        <item>Fruit</item>
+        <item>Sausage</item>
+        <item>Bacon</item>
+        <item>Hash browns</item>
+    </string-array>
+    <string-array name="lunch_sides">
+        <item>Select Side</item>
+        <item>Salad</item>
+        <item>Bread rolls</item>
+        <item>Vegetables</item>
+        <item>Rice</item>
+        <item>Fruit</item>
+    </string-array>
+    <string-array name="dinner_sides">
+        <item>Select Side</item>
+        <item>Salad</item>
+        <item>Bread rolls</item>
+        <item>Vegetables</item>
+        <item>Rice</item>
+        <item>Fruit</item>
+    </string-array>\
+
+    <string-array name="breakfast_beverages">
+        <item>Select Beverage</item>
+        <item>Orange juice</item>
+        <item>Apple juice</item>
+        <item>Milk</item>
+        <item>Coffee</item>
+        <item>Water</item>
+    </string-array>
+    <string-array name="lunch_beverages">
+        <item>Select Beverage</item>
+        <item>Water</item>
+        <item>Soda/Pop</item>
+        <item>Milk</item>
+        <item>Tea</item>
+        <item>Coffee</item>
+    </string-array>
+    <string-array name="dinner_beverages">
+        <item>Select Beverage</item>
+        <item>Water</item>
+        <item>Soda/Pop</item>
+        <item>Milk</item>
+        <item>Tea</item>
+        <item>Coffee</item>
+    </string-array>
+
+    <string-array name="page_two_question_one">
+        <item>Select Yes or No</item>
+        <item>YES</item>
+        <item>No</item>
+        <item>I am not sure...</item>
+    </string-array>
+    <string-array name="page_two_question_two">
+        <item>Select Meal</item>
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+    </string-array>
+</resources>
